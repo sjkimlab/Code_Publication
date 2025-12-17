@@ -4,8 +4,8 @@ This repo contains analysis and plotting scripts for smFISH data. An example dat
 
 To run the plotting code:
 
-1. Add the `FISH_mRNAdeg_2024` folder and all its subfolder to the MATLAB search path. 
-2. Set the MATLAB current working directory to the `FISH_mRNAdeg_2024` folder.
+1. Add the `FISHanalysis2` folder and all its subfolder to the MATLAB search path. 
+2. Set the MATLAB current working directory to the `FISHanalysis2` folder.
 
 
 
@@ -33,6 +33,6 @@ Example dataset of two strains (SK390 & SK435) is provided in the `FISH Data` fo
 
 ## Running Workflow
 
-1. Download MATLAB and add the `FISH_mRNAdeg_2024` folder and all its subfolder to MATLAB search path.
-2. Set the MATLAB current working directory to the `FISH_mRNAdeg_2024` folder. For example, enter `cd( 'yourPath\FISH_mRNAdeg_2024')` in the MATLAB command window
+1. Download MATLAB and add the `FISHanalysis2` folder and all its subfolder to MATLAB search path.
+2. Set the MATLAB current working directory to the `FISHanalysis2` folder. For example, enter `cd( 'yourPath\FISHanalysis2')` in the MATLAB command window
 3. Run plotting scripts to visualize analysis results
