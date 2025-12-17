@@ -14,7 +14,7 @@ In order to run the .exe you will need to have MATLAB runtime installed. This pr
 
 With the runtime is installed, you should be able to run the file `Ecoli_geneExpression_TASEP_dataViewer.exe`
 
-## Using MATLAB App designer.
+## Using MATLAB App designer
 
 Alternatively you can open the .mlapp in MATLAB app designer and run it through the app designer. The .mlapp file can be found in the following repository:
 `\uncompiledCode\Ecoli_geneExpression_TASEP_dataViewer.mlapp`
@@ -23,10 +23,7 @@ the .mlapp requires the following file to be in the same directory:
 `Ecoli_geneExpression_TASEP_function.m`
 
 
-## Running the code.
+## Running the code
 A more detailed guide to help use the simulation GUI can be found under the name: `Readme for Ecoli_geneExpression_TASEP.pdf`
 Due to the space limitation in Github, we were not able to provide datasets.
 The complete version with the data sets can be found on [Zenodo](https://doi.org/10.5281/zenodo.17970097) repository.
-
-
-Details about the datasets included can be found in the file: `dataset_details.csv`
