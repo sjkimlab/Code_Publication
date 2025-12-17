@@ -34,6 +34,7 @@ clear, clc
 Date = input( ' Please input the Date of the experiment (like: 230601):  ', 's'); fprintf( '\n')
 strain = input( ' Please input the strain number (like: SK98):  ', 's'); fprintf( '\n')
 
+% specify the folder location of FISH analysis files
 fishPath = 'C:\Users\yuhuanw2\Documents\MATLAB\Lab Data\Track and Cell Variables\FISH\';
 savePath = [ fishPath strain '\' Date '\'];
 
