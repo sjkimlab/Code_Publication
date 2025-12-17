@@ -1,5 +1,5 @@
 ## About
-This folder contains analysis code used in Kim et al on mRNA degradation in bacteria.
+This folder contains analysis code used in Kim et al on "Spatial and genetic constraints govern coupling between transcription, translation, and mRNA degradation in bacteria".
 
 ## FISH analysis
 We provide three versions of FISH analysis code, depending on the need.
