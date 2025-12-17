@@ -18,9 +18,9 @@ The raw timepoint data is provided in an excel file. They are RNA signal (AU) at
 We provide matlab code used to plot dot density plots of PF vs TE or of half-life vs TE, as well as to calculate correlation values and Fisher test.
 Source Data 3 and 4 are required to run the code.
 
-## E. coli Gene Expression TASEP simulation GUI (tested on MATLAB version R2023a)
+## E. coli gene expression TASEP simulation GUI (tested on MATLAB version R2023a)
 We provide matlab GUI used to run stochastic simulations and to show simulation results (data viewer).
 
-## ODE-RK4 (Python)
+## ODE-RK4 (tested on python version 3.8.20)
 Python scripts for drawing ODE models for lacZ transient induction results (initial rise and decay) depending on kd1 and kd2 values.
 The results are shown in Extended Data Figure 3a.
