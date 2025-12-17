@@ -1,0 +1,3 @@
+gene,RNAP_speed,Ribo_speed,number_iteration,total_simulation_time,Promotor_off_time,RNAP_loading_rate,Ribo_loading_rate,Rho_loading_rate,mu1,mu2,muPT
+lacZ,19,19,300,2000,1500,0.05,0.05,0.13,240,120,120
+uniform,19,19,300,2000,1500,0.05,0,0.13,240,120,120
