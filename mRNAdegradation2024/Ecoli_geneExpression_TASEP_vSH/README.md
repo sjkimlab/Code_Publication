@@ -1,6 +1,6 @@
 # Ecoli_geneExpression_TASEP
 
-Ecoli_geneExpression_TASEP is a matlab application created to simulate RNAP transcription and analyze the resulting simulated datasets. This code is used in simulating datasets found in the paper `insert DOI here`.
+Ecoli_geneExpression_TASEP is a matlab application created to simulate RNAP transcription and analyze the resulting simulated datasets. .
 
 In order to run this program you must have either MATLAB installed or MATLAB Runtime installed. The MATLAB runtime does not require the user to have a MATLAB license.
 
@@ -24,6 +24,9 @@ the .mlapp requires the following file to be in the same directory:
 
 
 ## Running the code.
-A more detailed guide to help use the simulation GUI can be found under the name: `Readme.pdf`
+A more detailed guide to help use the simulation GUI can be found under the name: `Readme for Ecoli_geneExpression_TASEP.pdf`
+Due to the space limitation in Github, we were not able to provide datasets.
+The complete version with the data sets can be found on [Zenodo](https://doi.org/10.5281/zenodo.17970097) repository.
+
 
 Details about the datasets included can be found in the file: `dataset_details.csv`
