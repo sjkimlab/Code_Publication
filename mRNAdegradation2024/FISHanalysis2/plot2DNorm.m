@@ -14,7 +14,7 @@ FISHdataAnalysis output:
     cellArea & cellLength & cellWid: properties of each cells (unit: um)
 
 -------- please go to the directory that contains FISH Data folder --------
-                  i.e.  'yourPath\FISH_mRNAdeg_2024'
+                  i.e.  'yourPath\FISHanalysis2'
 ---------------------------------------------------------------------------
 %}    
 
@@ -26,7 +26,7 @@ fishPath = fullfile( pwd, 'FISH Data');
 
 listStrain = dir( fullfile( fishPath, '*SK*')); % strain folders
 if isempty( listStrain)
-    error( '       Please change the current working path to ''FISH_mRNAdeg_2024'' that contains ''FISH Data folder''')
+    error( '       Please change the current working path to ''FISHanalysis2'' that contains ''FISH Data folder''')
 end
 plotNum = getPlotNum( listStrain); % find which strains to plot 
 
