@@ -2,11 +2,6 @@
 
 This repo contains analysis and plotting scripts for smFISH data. An example dataset is also provided, which you can use to generate plots. The dataset already integrates outputs from **Oufti** & **u-track** analyses, and is ready for plotting. 
 
-To run the plotting code:
-
-Set the MATLAB current working directory to the `FISHanalysis2` folder and command: _addpath(genpath(pwd))_.
-
-
 
 #### System Requirement
 
@@ -32,6 +27,7 @@ Example dataset of two strains (SK390 & SK435) is provided in the `FISH Data` fo
 
 ## Running Workflow
 
-1. Download MATLAB and add the `FISHanalysis2` folder and all its subfolder to MATLAB search path.
-2. Set the MATLAB current working directory to the `FISHanalysis2` folder. For example, enter `cd( 'yourPath\FISHanalysis2')` in the MATLAB command window
-3. Run plotting scripts to visualize analysis results
+1. Download MATLAB and the `FISHanalysis2` folder.
+2. Set the MATLAB current working directory to the `FISHanalysis2` folder. For example, enter `cd( 'yourPath\FISHanalysis2')` in the MATLAB command window.
+3. Command: _addpath(genpath(pwd))_. 
+4. Run plotting scripts to visualize analysis results
