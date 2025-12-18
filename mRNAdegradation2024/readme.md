@@ -19,8 +19,7 @@ We provide matlab code used to plot dot density plots of PF vs TE or of half-lif
 Source Data 3 and 4 are required to run the code.
 
 ## E. coli gene expression TASEP simulation GUI (tested on MATLAB version R2023a)
-We provide matlab GUI used to run stochastic simulations and to show simulation results (data viewer).
-Due to the space limitation in Github, we were not able to provide datasets. The complete version with the data sets can be found on [Zenodo](https://doi.org/10.5281/zenodo.17970097) repository.
+We provide matlab GUI used to run stochastic simulations and to display simulation results (data viewer).
 
 ## ODE-RK4 (tested on python version 3.8.20)
 Python scripts for drawing ODE models for lacZ transient induction results (initial rise and decay) depending on kd1 and kd2 values.
