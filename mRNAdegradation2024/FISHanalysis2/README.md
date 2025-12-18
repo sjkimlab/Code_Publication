@@ -4,8 +4,7 @@ This repo contains analysis and plotting scripts for smFISH data. An example dat
 
 To run the plotting code:
 
-1. Add the `FISHanalysis2` folder and all its subfolder to the MATLAB search path. 
-2. Set the MATLAB current working directory to the `FISHanalysis2` folder.
+Set the MATLAB current working directory to the `FISHanalysis2` folder and command: _addpath(genpath(pwd))_.
 
 
 
