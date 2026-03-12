@@ -19,7 +19,7 @@ After downloading the Runtime, unzip the file and double-click the setup file.
 ## GUI, using MATLAB App designer
 
 The .mlapp version of the code can be run via MATLAB app designer. The .mlapp file can be found in the following repository:
-`\uncompiledCode\Ecoli_geneExpression_TASEP_dataViewer.mlapp`
+`\uncompiledCode\Ecoli_geneExpression_TASEP.mlapp`
 
 The .mlapp requires the following file to be in the same directory:
 `Ecoli_geneExpression_TASEP_function.m`
