@@ -27,6 +27,7 @@ The .mlapp requires the following file to be in the same directory:
 We recommend setting the MATLAB Current Folder to `\uncompiledCode\` then double-clicking `Ecoli_geneExpression_TASEP_dataViewer.mlapp` in the MATLAB Current Folder window.
 The App Designer start page will open, which may take some time. Press the Run button in the App Designer window to launch the GUI.
 
+This method was tested on MATLAB R2021a and R2023a.
 
 ## Running the GUI
 A more detailed guide to help use the simulation GUI can be found under the name: **`GUI_user_guide.pdf`**
