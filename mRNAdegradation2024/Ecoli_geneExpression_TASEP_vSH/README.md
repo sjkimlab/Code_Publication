@@ -14,7 +14,7 @@ The .exe version of the code can be run via MATLAB Runtime. You can download and
 This program is tested on MATLAB runtime R2023a(9.14).
 
 
-## Using MATLAB App designer
+## GUI, using MATLAB App designer
 
 The .mlapp version of the code can be run via MATLAB app designer. The .mlapp file can be found in the following repository:
 `\uncompiledCode\Ecoli_geneExpression_TASEP_dataViewer.mlapp`
@@ -24,5 +24,5 @@ The .mlapp requires the following file to be in the same directory:
 
 
 ## Running the code
-A more detailed guide to help use the simulation GUI can be found under the name: `Readme for Ecoli_geneExpression_TASEP.pdf`
+A more detailed guide to help use the simulation GUI can be found under the name: `GUI_user_guide.pdf`
 
