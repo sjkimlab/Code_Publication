@@ -1,21 +1,22 @@
 # Ecoli_geneExpression_TASEP
 
-Ecoli_geneExpression_TASEP is a matlab application to simulate transcription, translation, and RNA degradation in the presence of premature transcription termination and to analyze the simulated datasets.
+Ecoli_geneExpression_TASEP is a matlab application to simulate transcription, translation, and RNA degradation and to analyze the simulated datasets. Importantly, premature transcription termination is allowed when RNA polymerase and ribosome are not coupled.
 
-In order to run this program you must have either MATLAB installed or MATLAB Runtime installed. The MATLAB runtime does not require the user to have a MATLAB license.
+This program requires either MATLAB or MATLAB Runtime, which does not require the user to have a MATLAB license.
 
 
 ## Using MATLAB runtime
 
-
-In order to run the .exe you will need to have MATLAB runtime installed. This program is tested on MATLAB runtime R2023a(9.14). You can download and install this runtime from:
+The .exe version of the code can be run via MATLAB Runtime. You can download and install this runtime from:
 
 `https://www.mathworks.com/products/compiler/mcr/index.html`
+
+This program is tested on MATLAB runtime R2023a(9.14).
 
 
 ## Using MATLAB App designer
 
-Alternatively you can open the .mlapp in MATLAB app designer and run it through the app designer. The .mlapp file can be found in the following repository:
+The .mlapp version of the code can be run via MATLAB app designer. The .mlapp file can be found in the following repository:
 `\uncompiledCode\Ecoli_geneExpression_TASEP_dataViewer.mlapp`
 
 The .mlapp requires the following file to be in the same directory:
