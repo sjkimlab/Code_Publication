@@ -492,7 +492,7 @@ function output= Ecoli_geneExpression_TASEP_function(input_parameters)
 					    idx =length((RNAP_exitTimes(RNAP_exitTimes(:,RNA)>0)))+1;
                         % could be idx = size(RNAP_exitTimes(:,RNA)>0))+1
 					    deg_exitTimes(idx:geneLength,RNA)= zeros(geneLength-idx+1,1);
-					    deg_exitTimes(RNA,ribo) = geneLength+10;
+					    deg_locs(RNA) = geneLength+10;
 			    elseif overlap >0	
 				    deg_exitTimes(idx:(idx+size(tempdeg_exitTimes,1)-1-overlap),RNA)=deg_exitTimes(1:size(tempdeg_exitTimes,1)-overlap);
 				    deg_locs(RNA) = deg_locs(RNA)+size(tempdeg_exitTimes,1)-overlap;
