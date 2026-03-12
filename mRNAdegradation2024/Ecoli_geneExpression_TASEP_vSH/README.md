@@ -11,7 +11,7 @@ The .exe version of the code can be run via MATLAB Runtime. You can download and
 
 `https://www.mathworks.com/products/compiler/mcr/index.html`
 
-This program is tested on MATLAB runtime R2023a(9.14).
+Our code is tested on MATLAB runtime R2023a(9.14).
 
 After downloading the Runtime, unzip the file and double-click the setup file.
 
